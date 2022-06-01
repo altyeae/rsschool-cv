@@ -1,4 +1,4 @@
-<h1 align="center">Hi, there. It's me - Rostislav Svintsov</a>
+<h1 align="center">Rostislav Svintsov</a>
 
 ## Personal Information:
 * Date of Birth: 24-07-2002*
