@@ -1,10 +1,10 @@
-<h1 align="center">Rostislav Svintsov</a>
-<h2 align="center">Trainee</a>
+# Rostislav Svintsov
+## Trainee
 
 ## Personal Information:
-* Date of Birth: 24-07-2002*
+* Date of Birth: 24-07-2002
 
-* City: Saint Petersburg, Russia*
+* City: Saint Petersburg, Russia
 ## Briefly About Myself:
 Since childhood i was fond of programming, was engaged in olympiad problems and was interested in how a computer works.
 
