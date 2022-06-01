@@ -1,4 +1,5 @@
 <h1 align="center">Rostislav Svintsov</a>
+<h2 align="center">Trainee</a>
 
 ## Personal Information:
 * Date of Birth: 24-07-2002*
